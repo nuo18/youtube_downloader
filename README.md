@@ -9,3 +9,5 @@ Simple gui
 - Download video / audio
 - Download subtitle
 - Download thumbnail
+
+Will think of making it as a chrome extension
